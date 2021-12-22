@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BBD UI Automation Framework" duration-ms="235771" started-at="2021-12-22T14:18:59 IST" finished-at="2021-12-22T14:22:54 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Login Test" duration-ms="235771" started-at="2021-12-22T14:18:59 IST" finished-at="2021-12-22T14:22:54 IST">
+      <class name="Runner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="setUpClass" is-config="true" duration-ms="848" started-at="2021-12-22T14:18:59 IST" finished-at="2021-12-22T14:19:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" duration-ms="39275" started-at="2021-12-22T14:19:00 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-12-22T14:19:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Accounts Page title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Account Page Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" duration-ms="35575" started-at="2021-12-22T14:19:39 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-12-22T14:20:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Account section count"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Account Page Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" duration-ms="47808" started-at="2021-12-22T14:20:15 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-12-22T14:21:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us scenario with different set of data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" duration-ms="46109" started-at="2021-12-22T14:21:02 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-12-22T14:21:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Contact Us scenario with different set of data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Contact Us feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" duration-ms="18905" started-at="2021-12-22T14:21:48 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-12-22T14:22:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login page title"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login page feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" duration-ms="16841" started-at="2021-12-22T14:22:07 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-12-22T14:22:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Forgot Password link"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login page feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="runScenario" duration-ms="30245" started-at="2021-12-22T14:22:24 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-12-22T14:22:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with correct credentails"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login page feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:Runner.TestRunner@3aeaafa6]" name="tearDownClass" is-config="true" duration-ms="9" started-at="2021-12-22T14:22:54 IST" finished-at="2021-12-22T14:22:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Runner.TestRunner -->
+    </test> <!-- Login Test -->
+  </suite> <!-- BBD UI Automation Framework -->
+</testng-results>
